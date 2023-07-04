@@ -1,0 +1,12 @@
+2023-07-03 21:48:47.816 [error] Error: Unable to retrieve mac address (unexpected format)
+    at O (/snap/code/132/usr/share/code/resources/app/out/vs/code/electron-main/main.js:16:76067)
+    at f (/snap/code/132/usr/share/code/resources/app/out/vs/code/electron-main/main.js:21:37296)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /snap/code/132/usr/share/code/resources/app/out/vs/code/electron-main/main.js:21:37152
+2023-07-03 21:48:47.816 [info] update#setState idle
+2023-07-03 21:49:06.929 [info] Extension host with pid 5913 exited with code: 0, signal: unknown.
+2023-07-03 21:49:06.939 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-07-03 21:49:06.940 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 5901]: crashed with code 15 and reason 'killed'
+2023-07-03 21:49:17.620 [info] update#setState checking for updates
+2023-07-03 21:49:17.621 [info] update#setState idle
+2023-07-03 21:50:25.466 [info] Extension host with pid 5818 exited with code: 0, signal: unknown.

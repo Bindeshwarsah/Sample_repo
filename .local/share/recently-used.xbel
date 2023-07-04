@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/bindeshwar/Downloads/google-chrome-stable_current_amd64.deb" added="2023-07-03T16:44:12.267777Z" modified="2023-07-03T16:53:45.183134Z" visited="2023-07-03T16:44:12.267778Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-07-03T16:44:12.267779Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/snap-store_ubuntu-software-local-file.desktop /snap/bin/snap-store.ubuntu-software-local-file --local-filename %f&apos;" modified="2023-07-03T16:53:45.183126Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bindeshwar/Desktop/New%20Folder/myapp" added="2023-07-03T17:53:40.895376Z" modified="2023-07-03T17:53:40.895379Z" visited="2023-07-03T17:53:40.895376Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-07-03T17:53:40.895377Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

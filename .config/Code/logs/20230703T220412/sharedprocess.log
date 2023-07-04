@@ -1,0 +1,43 @@
+2023-07-03 22:04:20.141 [info] Getting Manifest... ms-python.python
+2023-07-03 22:04:20.163 [info] Installing extension: ms-python.python
+2023-07-03 22:04:20.915 [info] Getting Manifest... ms-python.vscode-pylance
+2023-07-03 22:04:20.962 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2023-07-03 22:04:31.949 [info] Extension signature is verified: ms-python.python
+2023-07-03 22:04:33.822 [info] Extracted extension to /home/bindeshwar/.vscode/extensions/.25a22bba-161b-4bf8-aee8-22389bc155ed: ms-python.python
+2023-07-03 22:04:33.850 [info] Renamed to /home/bindeshwar/.vscode/extensions/ms-python.python-2023.10.1
+2023-07-03 22:04:33.858 [info] Extracting extension completed. ms-python.python
+2023-07-03 22:04:49.127 [info] Extension signature is verified: ms-python.vscode-pylance
+2023-07-03 22:04:51.645 [info] Extracted extension to /home/bindeshwar/.vscode/extensions/.93acfdde-2170-42da-a802-34a831ffff42: ms-python.vscode-pylance
+2023-07-03 22:04:51.656 [info] Renamed to /home/bindeshwar/.vscode/extensions/ms-python.vscode-pylance-2023.6.40
+2023-07-03 22:04:51.664 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-07-03 22:04:51.676 [info] Extension installed successfully: ms-python.python
+2023-07-03 22:04:51.676 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-07-03 22:05:31.616 [info] Getting Manifest... dbaeumer.vscode-eslint
+2023-07-03 22:05:31.626 [info] Installing extension: dbaeumer.vscode-eslint
+2023-07-03 22:05:33.293 [info] Extension signature is verified: dbaeumer.vscode-eslint
+2023-07-03 22:05:33.310 [info] Extracted extension to /home/bindeshwar/.vscode/extensions/.68c4c408-1e51-4fe2-b021-931548a032fd: dbaeumer.vscode-eslint
+2023-07-03 22:05:33.324 [info] Renamed to /home/bindeshwar/.vscode/extensions/dbaeumer.vscode-eslint-2.4.2
+2023-07-03 22:05:33.326 [info] Extracting extension completed. dbaeumer.vscode-eslint
+2023-07-03 22:05:33.337 [info] Extension installed successfully: dbaeumer.vscode-eslint
+2023-07-03 22:06:07.258 [info] Getting Manifest... esbenp.prettier-vscode
+2023-07-03 22:06:07.268 [info] Installing extension: esbenp.prettier-vscode
+2023-07-03 22:06:11.495 [info] Extension signature is verified: esbenp.prettier-vscode
+2023-07-03 22:06:11.588 [info] Extracted extension to /home/bindeshwar/.vscode/extensions/.30b419b3-a15f-4b0a-850b-5495ef5410df: esbenp.prettier-vscode
+2023-07-03 22:06:11.616 [info] Renamed to /home/bindeshwar/.vscode/extensions/esbenp.prettier-vscode-9.19.0
+2023-07-03 22:06:11.618 [info] Extracting extension completed. esbenp.prettier-vscode
+2023-07-03 22:06:11.629 [info] Extension installed successfully: esbenp.prettier-vscode
+2023-07-03 22:06:19.698 [info] Getting Manifest... yzhang.markdown-all-in-one
+2023-07-03 22:06:19.708 [info] Installing extension: yzhang.markdown-all-in-one
+2023-07-03 22:06:21.598 [info] Extension signature is verified: yzhang.markdown-all-in-one
+2023-07-03 22:06:21.637 [info] Extracted extension to /home/bindeshwar/.vscode/extensions/.fe55171d-ecda-413e-939c-bd9e85f495a3: yzhang.markdown-all-in-one
+2023-07-03 22:06:21.651 [info] Renamed to /home/bindeshwar/.vscode/extensions/yzhang.markdown-all-in-one-3.5.1
+2023-07-03 22:06:21.653 [info] Extracting extension completed. yzhang.markdown-all-in-one
+2023-07-03 22:06:21.663 [info] Extension installed successfully: yzhang.markdown-all-in-one
+2023-07-03 22:06:32.101 [info] Getting Manifest... ms-python.flake8
+2023-07-03 22:06:32.109 [info] Installing extension: ms-python.flake8
+2023-07-03 22:06:32.982 [info] Getting Manifest... ms-python.python
+2023-07-03 22:06:34.826 [info] Extension signature is verified: ms-python.flake8
+2023-07-03 22:06:34.994 [info] Extracted extension to /home/bindeshwar/.vscode/extensions/.2298d1bb-2f8b-4cc8-8009-c4d9ba022e7a: ms-python.flake8
+2023-07-03 22:06:35.010 [info] Renamed to /home/bindeshwar/.vscode/extensions/ms-python.flake8-2023.4.0
+2023-07-03 22:06:35.011 [info] Extracting extension completed. ms-python.flake8
+2023-07-03 22:06:35.021 [info] Extension installed successfully: ms-python.flake8

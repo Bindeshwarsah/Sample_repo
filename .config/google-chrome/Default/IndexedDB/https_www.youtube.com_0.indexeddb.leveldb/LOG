@@ -1,0 +1,5 @@
+2023/07/04-10:25:20.834 14cc Creating DB /home/bindeshwar/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/07/04-10:25:20.848 14cc Reusing MANIFEST /home/bindeshwar/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/04-12:46:32.316 14cd Level-0 table #5: started
+2023/07/04-12:46:32.336 14cd Level-0 table #5: 1216070 bytes OK
+2023/07/04-12:46:32.343 14cd Delete type=0 #3

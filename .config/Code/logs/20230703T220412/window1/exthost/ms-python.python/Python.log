@@ -1,0 +1,46 @@
+2023-07-03 22:04:52.522 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-07-03 22:04:52.523 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-07-03 22:04:52.523 [info] Experiment 'pythonSurveyNotification' is active
+2023-07-03 22:04:52.599 [info] Test server listening.
+2023-07-03 22:04:52.611 [info] > conda info --json
+2023-07-03 22:04:52.900 [info] Found: /bin/python3 --> /bin/python3.10
+2023-07-03 22:04:52.903 [info] Found: /bin/python3.10 --> /bin/python3.10
+2023-07-03 22:04:52.906 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-07-03 22:04:52.906 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-07-03 22:04:52.906 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-07-03 22:04:52.906 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-07-03 22:04:52.906 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-07-03 22:04:52.906 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-07-03 22:04:52.906 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-07-03 22:04:52.906 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-07-03 22:04:52.906 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-07-03 22:04:52.906 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-07-03 22:04:52.919 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2023-07-03 22:04:52.919 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2023-07-03 22:04:52.938 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.10.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.10.1/pythonFiles/interpreterInfo.py
+2023-07-03 22:04:52.946 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.10.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.10.1/pythonFiles/interpreterInfo.py
+2023-07-03 22:04:53.025 [info] Python interpreter path: /bin/python3
+2023-07-03 22:04:53.028 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-07-03 22:04:54.388 [info] Starting Pylance language server.
+2023-07-03 22:07:02.449 [info] Discover tests for workspace name: day1 - uri: /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:07:13.046 [info] > /bin/python3 ~/.vscode/extensions/ms-python.python-2023.10.1/pythonFiles/normalizeSelection.py
+2023-07-03 22:07:13.200 [info] Send text to terminal: /bin/python3
+2023-07-03 22:07:14.201 [info] Send text to terminal: class debu(){}
+
+
+2023-07-03 22:08:10.351 [info] Discover tests for workspace name: day1 - uri: /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:08:12.686 [info] Discover tests for workspace name: day1 - uri: /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:08:15.044 [info] Discover tests for workspace name: day1 - uri: /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:08:16.659 [info] Discover tests for workspace name: day1 - uri: /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:08:21.805 [info] Discover tests for workspace name: day1 - uri: /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:08:27.767 [info] Discover tests for workspace name: day1 - uri: /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:08:33.346 [info] Discover tests for workspace name: day1 - uri: /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:08:48.250 [info] Discover tests for workspace name: day1 - uri: /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:08:53.805 [info] Discover tests for workspace name: day1 - uri: /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:08:59.147 [info] Discover tests for workspace name: day1 - uri: /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:09:03.627 [info] Discover tests for workspace name: day1 - uri: /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:09:13.116 [info] Send text to terminal: /bin/python3 /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:09:16.577 [info] Send text to terminal: /bin/python3 /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:09:17.416 [info] Send text to terminal: /bin/python3 /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:09:18.095 [info] Send text to terminal: /bin/python3 /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:09:18.738 [info] Send text to terminal: /bin/python3 /home/bindeshwar/projects-test/day1/helloworld.py

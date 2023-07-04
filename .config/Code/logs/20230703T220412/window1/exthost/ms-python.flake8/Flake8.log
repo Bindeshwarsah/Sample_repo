@@ -1,0 +1,395 @@
+2023-07-03 22:06:35.246 [info] Name: Flake8
+2023-07-03 22:06:35.246 [info] Module: flake8
+2023-07-03 22:06:35.246 [info] Python extension loading
+2023-07-03 22:06:35.246 [info] Waiting for interpreter from python extension.
+2023-07-03 22:06:35.246 [info] Python extension loaded
+2023-07-03 22:06:35.246 [info] Server run command: /bin/python3 /home/bindeshwar/.vscode/extensions/ms-python.flake8-2023.4.0/bundled/tool/lsp_server.py
+2023-07-03 22:06:35.246 [info] Server: Start requested.
+2023-07-03 22:06:35.899 [info] CWD Server: /home/bindeshwar/projects-test/day1
+2023-07-03 22:06:35.899 [info] sys.path used to run Server:
+   /home/bindeshwar/.vscode/extensions/ms-python.flake8-2023.4.0/bundled/libs
+   /home/bindeshwar/.vscode/extensions/ms-python.flake8-2023.4.0/bundled/tool
+   /usr/lib/python310.zip
+   /usr/lib/python3.10
+   /usr/lib/python3.10/lib-dynload
+   /usr/local/lib/python3.10/dist-packages
+   /usr/lib/python3/dist-packages
+2023-07-03 22:06:35.900 [info] Settings used to run Server:
+[
+    {
+        "cwd": "/home/bindeshwar/projects-test/day1",
+        "workspace": "file:///home/bindeshwar/projects-test/day1",
+        "args": [],
+        "severity": {
+            "E": "Error",
+            "F": "Error",
+            "I": "Information",
+            "W": "Warning"
+        },
+        "path": [],
+        "interpreter": [
+            "/bin/python3"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2023-07-03 22:06:35.901 [info] Global settings:
+{
+    "cwd": "/home/bindeshwar",
+    "workspace": "/home/bindeshwar",
+    "args": [],
+    "severity": {
+        "E": "Error",
+        "F": "Error",
+        "I": "Information",
+        "W": "Warning"
+    },
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2023-07-03 22:06:35.905 [info] /bin/python3 -m flake8 --version
+2023-07-03 22:06:35.905 [info] CWD Linter: /home/bindeshwar/projects-test/day1
+2023-07-03 22:06:36.011 [info] 
+5.0.4 (mccabe: 0.7.0, pycodestyle: 2.9.1, pyflakes: 2.5.0) CPython 3.10.6 on
+Linux
+
+
+2023-07-03 22:06:36.012 [info] Version info for linter running for /home/bindeshwar/projects-test/day1:
+5.0.4 (mccabe: 0.7.0, pycodestyle: 2.9.1, pyflakes: 2.5.0) CPython 3.10.6 on
+Linux
+
+2023-07-03 22:06:36.012 [info] SUPPORTED flake8>=5.0.0
+FOUND flake8==5.0.4
+
+2023-07-03 22:06:36.025 [info] [Trace - 22:06:36] Received notification 'window/logMessage'.
+2023-07-03 22:06:36.025 [info] /bin/python3 -m flake8 --format='%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s' /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:06:36.025 [info] [Trace - 22:06:36] Received notification 'window/logMessage'.
+2023-07-03 22:06:36.025 [info] CWD Linter: /home/bindeshwar/projects-test/day1
+2023-07-03 22:06:36.037 [info] [Trace - 22:06:36] Received notification 'window/logMessage'.
+2023-07-03 22:06:36.037 [info] file:///home/bindeshwar/projects-test/day1/helloworld.py :
+'2,28,W,W292:no newline at end of file'
+
+2023-07-03 22:06:36.039 [info] [Trace - 22:06:36] Received notification 'textDocument/publishDiagnostics'.
+2023-07-03 22:06:38.751 [info] [Trace - 22:06:38] Sending request 'textDocument/codeAction - (1)'.
+2023-07-03 22:06:38.759 [info] [Trace - 22:06:38] Received response 'textDocument/codeAction - (1)' in 8ms.
+2023-07-03 22:06:38.996 [info] [Trace - 22:06:38] Sending request 'textDocument/codeAction - (2)'.
+2023-07-03 22:06:39.004 [info] [Trace - 22:06:39] Received response 'textDocument/codeAction - (2)' in 8ms.
+2023-07-03 22:06:42.674 [info] [Trace - 22:06:42] Sending request 'textDocument/codeAction - (3)'.
+2023-07-03 22:06:42.676 [info] [Trace - 22:06:42] Received response 'textDocument/codeAction - (3)' in 2ms.
+2023-07-03 22:06:52.874 [info] [Trace - 22:06:52] Sending request 'textDocument/codeAction - (4)'.
+2023-07-03 22:06:52.876 [info] [Trace - 22:06:52] Received response 'textDocument/codeAction - (4)' in 2ms.
+2023-07-03 22:06:53.123 [info] [Trace - 22:06:53] Sending request 'textDocument/codeAction - (5)'.
+2023-07-03 22:06:53.127 [info] [Trace - 22:06:53] Received response 'textDocument/codeAction - (5)' in 4ms.
+2023-07-03 22:06:54.688 [info] [Trace - 22:06:54] Sending request 'textDocument/codeAction - (6)'.
+2023-07-03 22:06:54.691 [info] [Trace - 22:06:54] Received response 'textDocument/codeAction - (6)' in 3ms.
+2023-07-03 22:06:55.504 [info] [Trace - 22:06:55] Sending request 'textDocument/codeAction - (7)'.
+2023-07-03 22:06:55.507 [info] [Trace - 22:06:55] Received response 'textDocument/codeAction - (7)' in 3ms.
+2023-07-03 22:06:56.057 [info] [Trace - 22:06:56] Sending request 'textDocument/codeAction - (8)'.
+2023-07-03 22:06:56.060 [info] [Trace - 22:06:56] Received response 'textDocument/codeAction - (8)' in 3ms.
+2023-07-03 22:07:00.395 [info] [Trace - 22:07:00] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:02.133 [info] [Trace - 22:07:02] Sending notification 'textDocument/didSave'.
+2023-07-03 22:07:02.137 [info] [Trace - 22:07:02] Received notification 'window/logMessage'.
+2023-07-03 22:07:02.137 [info] /bin/python3 -m flake8 --format='%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s' /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:07:02.137 [info] [Trace - 22:07:02] Received notification 'window/logMessage'.
+2023-07-03 22:07:02.137 [info] CWD Linter: /home/bindeshwar/projects-test/day1
+2023-07-03 22:07:02.150 [info] [Trace - 22:07:02] Received notification 'textDocument/publishDiagnostics'.
+2023-07-03 22:07:05.746 [info] [Trace - 22:07:05] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:05.859 [info] [Trace - 22:07:05] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:06.115 [info] [Trace - 22:07:06] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:06.265 [info] [Trace - 22:07:06] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:06.357 [info] [Trace - 22:07:06] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:06.478 [info] [Trace - 22:07:06] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:06.632 [info] [Trace - 22:07:06] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:06.789 [info] [Trace - 22:07:06] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:07.832 [info] [Trace - 22:07:07] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:08.088 [info] [Trace - 22:07:08] Sending request 'textDocument/codeAction - (9)'.
+2023-07-03 22:07:08.091 [info] [Trace - 22:07:08] Received response 'textDocument/codeAction - (9)' in 4ms.
+2023-07-03 22:07:08.114 [info] [Trace - 22:07:08] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:08.341 [info] [Trace - 22:07:08] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:08.524 [info] [Trace - 22:07:08] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:09.829 [info] [Trace - 22:07:09] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:09.949 [info] [Trace - 22:07:09] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:10.109 [info] [Trace - 22:07:10] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:10.299 [info] [Trace - 22:07:10] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:10.450 [info] [Trace - 22:07:10] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:11.121 [info] [Trace - 22:07:11] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:11.379 [info] [Trace - 22:07:11] Sending request 'textDocument/codeAction - (10)'.
+2023-07-03 22:07:11.382 [info] [Trace - 22:07:11] Received response 'textDocument/codeAction - (10)' in 3ms.
+2023-07-03 22:07:11.508 [info] [Trace - 22:07:11] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:11.738 [info] [Trace - 22:07:11] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:11.994 [info] [Trace - 22:07:11] Sending request 'textDocument/codeAction - (11)'.
+2023-07-03 22:07:11.998 [info] [Trace - 22:07:11] Received response 'textDocument/codeAction - (11)' in 4ms.
+2023-07-03 22:07:12.257 [info] [Trace - 22:07:12] Sending request 'textDocument/codeAction - (12)'.
+2023-07-03 22:07:12.260 [info] [Trace - 22:07:12] Received response 'textDocument/codeAction - (12)' in 3ms.
+2023-07-03 22:07:12.756 [info] [Trace - 22:07:12] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:13.012 [info] [Trace - 22:07:13] Sending request 'textDocument/codeAction - (13)'.
+2023-07-03 22:07:13.016 [info] [Trace - 22:07:13] Received response 'textDocument/codeAction - (13)' in 4ms.
+2023-07-03 22:07:13.302 [info] [Trace - 22:07:13] Sending request 'textDocument/codeAction - (14)'.
+2023-07-03 22:07:13.304 [info] [Trace - 22:07:13] Received response 'textDocument/codeAction - (14)' in 2ms.
+2023-07-03 22:07:13.346 [info] [Trace - 22:07:13] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:15.060 [info] [Trace - 22:07:15] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:15.313 [info] [Trace - 22:07:15] Sending request 'textDocument/codeAction - (15)'.
+2023-07-03 22:07:15.317 [info] [Trace - 22:07:15] Received response 'textDocument/codeAction - (15)' in 4ms.
+2023-07-03 22:07:15.584 [info] [Trace - 22:07:15] Sending request 'textDocument/codeAction - (16)'.
+2023-07-03 22:07:15.587 [info] [Trace - 22:07:15] Received response 'textDocument/codeAction - (16)' in 3ms.
+2023-07-03 22:07:15.670 [info] [Trace - 22:07:15] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:15.927 [info] [Trace - 22:07:15] Sending request 'textDocument/codeAction - (17)'.
+2023-07-03 22:07:15.931 [info] [Trace - 22:07:15] Received response 'textDocument/codeAction - (17)' in 4ms.
+2023-07-03 22:07:16.196 [info] [Trace - 22:07:16] Sending request 'textDocument/codeAction - (18)'.
+2023-07-03 22:07:16.198 [info] [Trace - 22:07:16] Received response 'textDocument/codeAction - (18)' in 2ms.
+2023-07-03 22:07:16.773 [info] [Trace - 22:07:16] Sending request 'textDocument/codeAction - (19)'.
+2023-07-03 22:07:16.776 [info] [Trace - 22:07:16] Received response 'textDocument/codeAction - (19)' in 3ms.
+2023-07-03 22:07:17.619 [info] [Trace - 22:07:17] Sending request 'textDocument/codeAction - (20)'.
+2023-07-03 22:07:17.622 [info] [Trace - 22:07:17] Received response 'textDocument/codeAction - (20)' in 3ms.
+2023-07-03 22:07:17.730 [info] [Trace - 22:07:17] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:17.985 [info] [Trace - 22:07:17] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:18.239 [info] [Trace - 22:07:18] Sending request 'textDocument/codeAction - (21)'.
+2023-07-03 22:07:18.242 [info] [Trace - 22:07:18] Received response 'textDocument/codeAction - (21)' in 3ms.
+2023-07-03 22:07:18.418 [info] [Trace - 22:07:18] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:18.674 [info] [Trace - 22:07:18] Sending request 'textDocument/codeAction - (22)'.
+2023-07-03 22:07:18.677 [info] [Trace - 22:07:18] Received response 'textDocument/codeAction - (22)' in 3ms.
+2023-07-03 22:07:18.928 [info] [Trace - 22:07:18] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:19.183 [info] [Trace - 22:07:19] Sending request 'textDocument/codeAction - (23)'.
+2023-07-03 22:07:19.187 [info] [Trace - 22:07:19] Received response 'textDocument/codeAction - (23)' in 4ms.
+2023-07-03 22:07:19.239 [info] [Trace - 22:07:19] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:25.555 [info] [Trace - 22:07:25] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:25.719 [info] [Trace - 22:07:25] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:25.910 [info] [Trace - 22:07:25] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:26.165 [info] [Trace - 22:07:26] Sending request 'textDocument/codeAction - (24)'.
+2023-07-03 22:07:26.168 [info] [Trace - 22:07:26] Received response 'textDocument/codeAction - (24)' in 3ms.
+2023-07-03 22:07:26.175 [info] [Trace - 22:07:26] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:27.793 [info] [Trace - 22:07:27] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:27.959 [info] [Trace - 22:07:27] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:28.212 [info] [Trace - 22:07:28] Sending request 'textDocument/codeAction - (25)'.
+2023-07-03 22:07:28.215 [info] [Trace - 22:07:28] Received response 'textDocument/codeAction - (25)' in 3ms.
+2023-07-03 22:07:28.506 [info] [Trace - 22:07:28] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:28.716 [info] [Trace - 22:07:28] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:28.976 [info] [Trace - 22:07:28] Sending request 'textDocument/codeAction - (26)'.
+2023-07-03 22:07:28.979 [info] [Trace - 22:07:28] Received response 'textDocument/codeAction - (26)' in 3ms.
+2023-07-03 22:07:29.227 [info] [Trace - 22:07:29] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:29.482 [info] [Trace - 22:07:29] Sending request 'textDocument/codeAction - (27)'.
+2023-07-03 22:07:29.485 [info] [Trace - 22:07:29] Received response 'textDocument/codeAction - (27)' in 3ms.
+2023-07-03 22:07:29.759 [info] [Trace - 22:07:29] Sending request 'textDocument/codeAction - (28)'.
+2023-07-03 22:07:29.763 [info] [Trace - 22:07:29] Received response 'textDocument/codeAction - (28)' in 3ms.
+2023-07-03 22:07:32.305 [info] [Trace - 22:07:32] Sending request 'textDocument/codeAction - (29)'.
+2023-07-03 22:07:32.308 [info] [Trace - 22:07:32] Received response 'textDocument/codeAction - (29)' in 2ms.
+2023-07-03 22:07:32.492 [info] [Trace - 22:07:32] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:33.193 [info] [Trace - 22:07:33] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:33.518 [info] [Trace - 22:07:33] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:33.652 [info] [Trace - 22:07:33] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:33.832 [info] [Trace - 22:07:33] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:33.994 [info] [Trace - 22:07:33] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:36.971 [info] [Trace - 22:07:36] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:37.226 [info] [Trace - 22:07:37] Sending request 'textDocument/codeAction - (30)'.
+2023-07-03 22:07:37.229 [info] [Trace - 22:07:37] Received response 'textDocument/codeAction - (30)' in 3ms.
+2023-07-03 22:07:37.284 [info] [Trace - 22:07:37] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:37.431 [info] [Trace - 22:07:37] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:37.689 [info] [Trace - 22:07:37] Sending request 'textDocument/codeAction - (31)'.
+2023-07-03 22:07:37.692 [info] [Trace - 22:07:37] Received response 'textDocument/codeAction - (31)' in 3ms.
+2023-07-03 22:07:37.947 [info] [Trace - 22:07:37] Sending request 'textDocument/codeAction - (32)'.
+2023-07-03 22:07:37.950 [info] [Trace - 22:07:37] Received response 'textDocument/codeAction - (32)' in 3ms.
+2023-07-03 22:07:38.424 [info] [Trace - 22:07:38] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:38.680 [info] [Trace - 22:07:38] Sending request 'textDocument/codeAction - (33)'.
+2023-07-03 22:07:38.685 [info] [Trace - 22:07:38] Received response 'textDocument/codeAction - (33)' in 5ms.
+2023-07-03 22:07:38.733 [info] [Trace - 22:07:38] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:38.745 [info] [Trace - 22:07:38] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:42.561 [info] [Trace - 22:07:42] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:42.675 [info] [Trace - 22:07:42] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:42.789 [info] [Trace - 22:07:42] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:42.954 [info] [Trace - 22:07:42] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:43.054 [info] [Trace - 22:07:43] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:43.311 [info] [Trace - 22:07:43] Sending request 'textDocument/codeAction - (34)'.
+2023-07-03 22:07:43.314 [info] [Trace - 22:07:43] Received response 'textDocument/codeAction - (34)' in 3ms.
+2023-07-03 22:07:43.564 [info] [Trace - 22:07:43] Sending request 'textDocument/codeAction - (35)'.
+2023-07-03 22:07:43.566 [info] [Trace - 22:07:43] Received response 'textDocument/codeAction - (35)' in 2ms.
+2023-07-03 22:07:43.629 [info] [Trace - 22:07:43] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:43.886 [info] [Trace - 22:07:43] Sending request 'textDocument/codeAction - (36)'.
+2023-07-03 22:07:43.890 [info] [Trace - 22:07:43] Received response 'textDocument/codeAction - (36)' in 4ms.
+2023-07-03 22:07:44.155 [info] [Trace - 22:07:44] Sending request 'textDocument/codeAction - (37)'.
+2023-07-03 22:07:44.158 [info] [Trace - 22:07:44] Received response 'textDocument/codeAction - (37)' in 3ms.
+2023-07-03 22:07:46.695 [info] [Trace - 22:07:46] Sending request 'textDocument/codeAction - (38)'.
+2023-07-03 22:07:46.698 [info] [Trace - 22:07:46] Received response 'textDocument/codeAction - (38)' in 3ms.
+2023-07-03 22:07:48.052 [info] [Trace - 22:07:48] Sending request 'textDocument/codeAction - (39)'.
+2023-07-03 22:07:48.054 [info] [Trace - 22:07:48] Received response 'textDocument/codeAction - (39)' in 2ms.
+2023-07-03 22:07:49.184 [info] [Trace - 22:07:49] Sending request 'textDocument/codeAction - (40)'.
+2023-07-03 22:07:49.187 [info] [Trace - 22:07:49] Received response 'textDocument/codeAction - (40)' in 3ms.
+2023-07-03 22:07:49.534 [info] [Trace - 22:07:49] Sending request 'textDocument/codeAction - (41)'.
+2023-07-03 22:07:49.537 [info] [Trace - 22:07:49] Received response 'textDocument/codeAction - (41)' in 3ms.
+2023-07-03 22:07:49.812 [info] [Trace - 22:07:49] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:51.183 [info] [Trace - 22:07:51] Sending request 'textDocument/codeAction - (42)'.
+2023-07-03 22:07:51.186 [info] [Trace - 22:07:51] Received response 'textDocument/codeAction - (42)' in 2ms.
+2023-07-03 22:07:52.686 [info] [Trace - 22:07:52] Sending request 'textDocument/codeAction - (43)'.
+2023-07-03 22:07:52.688 [info] [Trace - 22:07:52] Received response 'textDocument/codeAction - (43)' in 2ms.
+2023-07-03 22:07:53.552 [info] [Trace - 22:07:53] Sending notification 'textDocument/didChange'.
+2023-07-03 22:07:53.808 [info] [Trace - 22:07:53] Sending request 'textDocument/codeAction - (44)'.
+2023-07-03 22:07:53.811 [info] [Trace - 22:07:53] Received response 'textDocument/codeAction - (44)' in 3ms.
+2023-07-03 22:07:54.079 [info] [Trace - 22:07:54] Sending request 'textDocument/codeAction - (45)'.
+2023-07-03 22:07:54.083 [info] [Trace - 22:07:54] Received response 'textDocument/codeAction - (45)' in 4ms.
+2023-07-03 22:07:55.536 [info] [Trace - 22:07:55] Sending request 'textDocument/codeAction - (46)'.
+2023-07-03 22:07:55.539 [info] [Trace - 22:07:55] Received response 'textDocument/codeAction - (46)' in 3ms.
+2023-07-03 22:07:55.821 [info] [Trace - 22:07:55] Sending request 'textDocument/codeAction - (47)'.
+2023-07-03 22:07:55.824 [info] [Trace - 22:07:55] Received response 'textDocument/codeAction - (47)' in 3ms.
+2023-07-03 22:07:56.277 [info] [Trace - 22:07:56] Sending request 'textDocument/codeAction - (48)'.
+2023-07-03 22:07:56.280 [info] [Trace - 22:07:56] Received response 'textDocument/codeAction - (48)' in 3ms.
+2023-07-03 22:07:58.773 [info] [Trace - 22:07:58] Sending request 'textDocument/codeAction - (49)'.
+2023-07-03 22:07:58.776 [info] [Trace - 22:07:58] Received response 'textDocument/codeAction - (49)' in 3ms.
+2023-07-03 22:07:59.785 [info] [Trace - 22:07:59] Sending request 'textDocument/codeAction - (50)'.
+2023-07-03 22:07:59.787 [info] [Trace - 22:07:59] Received response 'textDocument/codeAction - (50)' in 2ms.
+2023-07-03 22:08:01.435 [info] [Trace - 22:08:01] Sending request 'textDocument/codeAction - (51)'.
+2023-07-03 22:08:01.437 [info] [Trace - 22:08:01] Received response 'textDocument/codeAction - (51)' in 2ms.
+2023-07-03 22:08:01.502 [info] [Trace - 22:08:01] Sending notification 'textDocument/didChange'.
+2023-07-03 22:08:02.986 [info] [Trace - 22:08:02] Sending request 'textDocument/codeAction - (52)'.
+2023-07-03 22:08:02.989 [info] [Trace - 22:08:02] Received response 'textDocument/codeAction - (52)' in 3ms.
+2023-07-03 22:08:03.498 [info] [Trace - 22:08:03] Sending notification 'textDocument/didChange'.
+2023-07-03 22:08:03.753 [info] [Trace - 22:08:03] Sending request 'textDocument/codeAction - (53)'.
+2023-07-03 22:08:03.756 [info] [Trace - 22:08:03] Received response 'textDocument/codeAction - (53)' in 3ms.
+2023-07-03 22:08:04.026 [info] [Trace - 22:08:04] Sending request 'textDocument/codeAction - (54)'.
+2023-07-03 22:08:04.030 [info] [Trace - 22:08:04] Received response 'textDocument/codeAction - (54)' in 5ms.
+2023-07-03 22:08:06.051 [info] [Trace - 22:08:06] Sending notification 'textDocument/didChange'.
+2023-07-03 22:08:06.304 [info] [Trace - 22:08:06] Sending request 'textDocument/codeAction - (55)'.
+2023-07-03 22:08:06.308 [info] [Trace - 22:08:06] Received response 'textDocument/codeAction - (55)' in 4ms.
+2023-07-03 22:08:06.576 [info] [Trace - 22:08:06] Sending request 'textDocument/codeAction - (56)'.
+2023-07-03 22:08:06.578 [info] [Trace - 22:08:06] Received response 'textDocument/codeAction - (56)' in 2ms.
+2023-07-03 22:08:07.853 [info] [Trace - 22:08:07] Sending request 'textDocument/codeAction - (57)'.
+2023-07-03 22:08:07.856 [info] [Trace - 22:08:07] Received response 'textDocument/codeAction - (57)' in 2ms.
+2023-07-03 22:08:08.084 [info] [Trace - 22:08:08] Sending notification 'textDocument/didChange'.
+2023-07-03 22:08:08.613 [info] [Trace - 22:08:08] Sending notification 'textDocument/didChange'.
+2023-07-03 22:08:08.836 [info] [Trace - 22:08:08] Sending notification 'textDocument/didChange'.
+2023-07-03 22:08:09.298 [info] [Trace - 22:08:09] Sending notification 'textDocument/didChange'.
+2023-07-03 22:08:10.041 [info] [Trace - 22:08:10] Sending notification 'textDocument/didSave'.
+2023-07-03 22:08:10.045 [info] [Trace - 22:08:10] Received notification 'window/logMessage'.
+2023-07-03 22:08:10.045 [info] /bin/python3 -m flake8 --format='%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s' /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:08:10.045 [info] [Trace - 22:08:10] Received notification 'window/logMessage'.
+2023-07-03 22:08:10.045 [info] CWD Linter: /home/bindeshwar/projects-test/day1
+2023-07-03 22:08:10.073 [info] [Trace - 22:08:10] Received notification 'window/logMessage'.
+2023-07-03 22:08:10.073 [info] file:///home/bindeshwar/projects-test/day1/helloworld.py :
+'13,1,W,W293:blank line contains whitespace'
+
+2023-07-03 22:08:10.073 [info] [Trace - 22:08:10] Received notification 'textDocument/publishDiagnostics'.
+2023-07-03 22:08:11.952 [info] [Trace - 22:08:11] Sending notification 'textDocument/didChange'.
+2023-07-03 22:08:12.371 [info] [Trace - 22:08:12] Sending notification 'textDocument/didSave'.
+2023-07-03 22:08:12.373 [info] [Trace - 22:08:12] Received notification 'window/logMessage'.
+2023-07-03 22:08:12.373 [info] /bin/python3 -m flake8 --format='%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s' /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:08:12.373 [info] [Trace - 22:08:12] Received notification 'window/logMessage'.
+2023-07-03 22:08:12.373 [info] CWD Linter: /home/bindeshwar/projects-test/day1
+2023-07-03 22:08:12.388 [info] [Trace - 22:08:12] Received notification 'window/logMessage'.
+2023-07-03 22:08:12.388 [info] file:///home/bindeshwar/projects-test/day1/helloworld.py :
+'12,1,W,W293:blank line contains whitespace'
+
+2023-07-03 22:08:12.388 [info] [Trace - 22:08:12] Received notification 'textDocument/publishDiagnostics'.
+2023-07-03 22:08:14.366 [info] [Trace - 22:08:14] Sending notification 'textDocument/didChange'.
+2023-07-03 22:08:14.732 [info] [Trace - 22:08:14] Sending notification 'textDocument/didSave'.
+2023-07-03 22:08:14.735 [info] [Trace - 22:08:14] Received notification 'window/logMessage'.
+2023-07-03 22:08:14.735 [info] /bin/python3 -m flake8 --format='%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s' /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:08:14.735 [info] [Trace - 22:08:14] Received notification 'window/logMessage'.
+2023-07-03 22:08:14.735 [info] CWD Linter: /home/bindeshwar/projects-test/day1
+2023-07-03 22:08:14.748 [info] [Trace - 22:08:14] Received notification 'window/logMessage'.
+2023-07-03 22:08:14.748 [info] file:///home/bindeshwar/projects-test/day1/helloworld.py :
+'12,1,W,W293:blank line contains whitespace'
+
+2023-07-03 22:08:14.748 [info] [Trace - 22:08:14] Received notification 'textDocument/publishDiagnostics'.
+2023-07-03 22:08:16.050 [info] [Trace - 22:08:16] Sending notification 'textDocument/didChange'.
+2023-07-03 22:08:16.340 [info] [Trace - 22:08:16] Sending notification 'textDocument/didSave'.
+2023-07-03 22:08:16.342 [info] [Trace - 22:08:16] Received notification 'window/logMessage'.
+2023-07-03 22:08:16.342 [info] /bin/python3 -m flake8 --format='%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s' /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:08:16.342 [info] [Trace - 22:08:16] Received notification 'window/logMessage'.
+2023-07-03 22:08:16.342 [info] CWD Linter: /home/bindeshwar/projects-test/day1
+2023-07-03 22:08:16.357 [info] [Trace - 22:08:16] Received notification 'window/logMessage'.
+2023-07-03 22:08:16.357 [info] file:///home/bindeshwar/projects-test/day1/helloworld.py :
+'11,1,W,W293:blank line contains whitespace'
+
+2023-07-03 22:08:16.358 [info] [Trace - 22:08:16] Received notification 'textDocument/publishDiagnostics'.
+2023-07-03 22:08:17.925 [info] [Trace - 22:08:17] Sending request 'textDocument/codeAction - (58)'.
+2023-07-03 22:08:17.928 [info] [Trace - 22:08:17] Received response 'textDocument/codeAction - (58)' in 3ms.
+2023-07-03 22:08:21.069 [info] [Trace - 22:08:21] Sending notification 'textDocument/didChange'.
+2023-07-03 22:08:21.488 [info] [Trace - 22:08:21] Sending notification 'textDocument/didSave'.
+2023-07-03 22:08:21.492 [info] [Trace - 22:08:21] Received notification 'window/logMessage'.
+2023-07-03 22:08:21.492 [info] /bin/python3 -m flake8 --format='%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s' /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:08:21.492 [info] [Trace - 22:08:21] Received notification 'window/logMessage'.
+2023-07-03 22:08:21.492 [info] CWD Linter: /home/bindeshwar/projects-test/day1
+2023-07-03 22:08:21.509 [info] [Trace - 22:08:21] Received notification 'window/logMessage'.
+2023-07-03 22:08:21.509 [info] file:///home/bindeshwar/projects-test/day1/helloworld.py :
+'11,1,W,W391:blank line at end of file'
+
+2023-07-03 22:08:21.509 [info] [Trace - 22:08:21] Received notification 'textDocument/publishDiagnostics'.
+2023-07-03 22:08:22.786 [info] [Trace - 22:08:22] Sending request 'textDocument/codeAction - (59)'.
+2023-07-03 22:08:22.788 [info] [Trace - 22:08:22] Received response 'textDocument/codeAction - (59)' in 2ms.
+2023-07-03 22:08:27.133 [info] [Trace - 22:08:27] Sending notification 'textDocument/didChange'.
+2023-07-03 22:08:27.454 [info] [Trace - 22:08:27] Sending notification 'textDocument/didSave'.
+2023-07-03 22:08:27.456 [info] [Trace - 22:08:27] Received notification 'window/logMessage'.
+2023-07-03 22:08:27.457 [info] /bin/python3 -m flake8 --format='%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s' /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:08:27.457 [info] [Trace - 22:08:27] Received notification 'window/logMessage'.
+2023-07-03 22:08:27.457 [info] CWD Linter: /home/bindeshwar/projects-test/day1
+2023-07-03 22:08:27.472 [info] [Trace - 22:08:27] Received notification 'textDocument/publishDiagnostics'.
+2023-07-03 22:08:32.176 [info] [Trace - 22:08:32] Sending notification 'textDocument/didChange'.
+2023-07-03 22:08:33.030 [info] [Trace - 22:08:33] Sending notification 'textDocument/didSave'.
+2023-07-03 22:08:33.031 [info] [Trace - 22:08:33] Received notification 'window/logMessage'.
+2023-07-03 22:08:33.031 [info] /bin/python3 -m flake8 --format='%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s' /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:08:33.031 [info] [Trace - 22:08:33] Received notification 'window/logMessage'.
+2023-07-03 22:08:33.032 [info] CWD Linter: /home/bindeshwar/projects-test/day1
+2023-07-03 22:08:33.043 [info] [Trace - 22:08:33] Received notification 'window/logMessage'.
+2023-07-03 22:08:33.043 [info] file:///home/bindeshwar/projects-test/day1/helloworld.py :
+'4,1,E,E302:expected 2 blank lines, found 1'
+
+2023-07-03 22:08:33.043 [info] [Trace - 22:08:33] Received notification 'textDocument/publishDiagnostics'.
+2023-07-03 22:08:37.934 [info] [Trace - 22:08:37] Sending request 'textDocument/codeAction - (60)'.
+2023-07-03 22:08:37.937 [info] [Trace - 22:08:37] Received response 'textDocument/codeAction - (60)' in 3ms.
+2023-07-03 22:08:42.566 [info] [Trace - 22:08:42] Sending notification 'textDocument/didChange'.
+2023-07-03 22:08:45.799 [info] [Trace - 22:08:45] Sending request 'textDocument/codeAction - (61)'.
+2023-07-03 22:08:45.800 [info] [Trace - 22:08:45] Received response 'textDocument/codeAction - (61)' in 1ms.
+2023-07-03 22:08:47.032 [info] [Trace - 22:08:47] Sending notification 'textDocument/didChange'.
+2023-07-03 22:08:47.287 [info] [Trace - 22:08:47] Sending request 'textDocument/codeAction - (62)'.
+2023-07-03 22:08:47.289 [info] [Trace - 22:08:47] Received response 'textDocument/codeAction - (62)' in 2ms.
+2023-07-03 22:08:47.940 [info] [Trace - 22:08:47] Sending notification 'textDocument/didSave'.
+2023-07-03 22:08:47.950 [info] [Trace - 22:08:47] Received notification 'window/logMessage'.
+2023-07-03 22:08:47.950 [info] /bin/python3 -m flake8 --format='%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s' /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:08:47.950 [info] [Trace - 22:08:47] Received notification 'window/logMessage'.
+2023-07-03 22:08:47.950 [info] CWD Linter: /home/bindeshwar/projects-test/day1
+2023-07-03 22:08:47.962 [info] [Trace - 22:08:47] Received notification 'window/logMessage'.
+2023-07-03 22:08:47.962 [info] file:///home/bindeshwar/projects-test/day1/helloworld.py :
+'8,5,E,E301:expected 1 blank line, found 0'
+
+2023-07-03 22:08:47.962 [info] [Trace - 22:08:47] Received notification 'textDocument/publishDiagnostics'.
+2023-07-03 22:08:48.217 [info] [Trace - 22:08:48] Sending request 'textDocument/codeAction - (63)'.
+2023-07-03 22:08:48.220 [info] [Trace - 22:08:48] Received response 'textDocument/codeAction - (63)' in 4ms.
+2023-07-03 22:08:49.332 [info] [Trace - 22:08:49] Sending request 'textDocument/codeAction - (64)'.
+2023-07-03 22:08:49.335 [info] [Trace - 22:08:49] Received response 'textDocument/codeAction - (64)' in 3ms.
+2023-07-03 22:08:50.662 [info] [Trace - 22:08:50] Sending request 'textDocument/codeAction - (65)'.
+2023-07-03 22:08:50.664 [info] [Trace - 22:08:50] Received response 'textDocument/codeAction - (65)' in 2ms.
+2023-07-03 22:08:52.599 [info] [Trace - 22:08:52] Sending notification 'textDocument/didChange'.
+2023-07-03 22:08:53.499 [info] [Trace - 22:08:53] Sending notification 'textDocument/didSave'.
+2023-07-03 22:08:53.503 [info] [Trace - 22:08:53] Received notification 'window/logMessage'.
+2023-07-03 22:08:53.503 [info] /bin/python3 -m flake8 --format='%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s' /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:08:53.503 [info] [Trace - 22:08:53] Received notification 'window/logMessage'.
+2023-07-03 22:08:53.503 [info] CWD Linter: /home/bindeshwar/projects-test/day1
+2023-07-03 22:08:53.528 [info] [Trace - 22:08:53] Received notification 'window/logMessage'.
+2023-07-03 22:08:53.528 [info] file:///home/bindeshwar/projects-test/day1/helloworld.py :
+'8,1,W,W293:blank line contains whitespace'
+
+2023-07-03 22:08:53.529 [info] [Trace - 22:08:53] Received notification 'textDocument/publishDiagnostics'.
+2023-07-03 22:08:58.228 [info] [Trace - 22:08:58] Sending notification 'textDocument/didChange'.
+2023-07-03 22:08:58.837 [info] [Trace - 22:08:58] Sending notification 'textDocument/didSave'.
+2023-07-03 22:08:58.842 [info] [Trace - 22:08:58] Received notification 'window/logMessage'.
+2023-07-03 22:08:58.842 [info] /bin/python3 -m flake8 --format='%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s' /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:08:58.843 [info] [Trace - 22:08:58] Received notification 'window/logMessage'.
+2023-07-03 22:08:58.843 [info] CWD Linter: /home/bindeshwar/projects-test/day1
+2023-07-03 22:08:58.856 [info] [Trace - 22:08:58] Received notification 'textDocument/publishDiagnostics'.
+2023-07-03 22:09:02.065 [info] [Trace - 22:09:02] Sending request 'textDocument/codeAction - (66)'.
+2023-07-03 22:09:02.067 [info] [Trace - 22:09:02] Received response 'textDocument/codeAction - (66)' in 2ms.
+2023-07-03 22:09:02.498 [info] [Trace - 22:09:02] Sending notification 'textDocument/didChange'.
+2023-07-03 22:09:02.691 [info] [Trace - 22:09:02] Sending notification 'textDocument/didChange'.
+2023-07-03 22:09:02.854 [info] [Trace - 22:09:02] Sending notification 'textDocument/didChange'.
+2023-07-03 22:09:03.324 [info] [Trace - 22:09:03] Sending notification 'textDocument/didSave'.
+2023-07-03 22:09:03.329 [info] [Trace - 22:09:03] Received notification 'window/logMessage'.
+2023-07-03 22:09:03.329 [info] /bin/python3 -m flake8 --format='%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s' /home/bindeshwar/projects-test/day1/helloworld.py
+2023-07-03 22:09:03.329 [info] [Trace - 22:09:03] Received notification 'window/logMessage'.
+2023-07-03 22:09:03.329 [info] CWD Linter: /home/bindeshwar/projects-test/day1
+2023-07-03 22:09:03.343 [info] [Trace - 22:09:03] Received notification 'textDocument/publishDiagnostics'.
+2023-07-03 22:09:45.759 [info] [Trace - 22:09:45] Sending request 'shutdown - (67)'.
+2023-07-03 22:09:45.775 [info] [Trace - 22:09:45] Received response 'shutdown - (67)' in 20ms.
+2023-07-03 22:09:45.775 [info] [Trace - 22:09:45] Sending notification 'exit'.

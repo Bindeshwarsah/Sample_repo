@@ -1,0 +1,15 @@
+2023-07-03 21:53:26.290 [info] [perf] Render performance baseline is 31ms
+2023-07-03 22:02:54.329 [error] Offline: Offline
+    at S.onerror (vscode-file://vscode-app/snap/code/132/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:72:1466)
+2023-07-03 22:02:54.332 [error] Offline: Offline
+    at S.onerror (vscode-file://vscode-app/snap/code/132/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:72:1466)
+2023-07-03 22:02:54.387 [error] Offline: Offline: Offline
+    at S.onerror (vscode-file://vscode-app/snap/code/132/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:72:1466)
+2023-07-03 22:03:07.276 [error] Offline: Offline
+    at S.onerror (vscode-file://vscode-app/snap/code/132/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:72:1466)
+2023-07-03 22:03:09.556 [error] Offline: Offline
+    at S.onerror (vscode-file://vscode-app/snap/code/132/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:72:1466)
+2023-07-03 22:03:17.473 [error] Offline: Offline
+    at S.onerror (vscode-file://vscode-app/snap/code/132/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:72:1466)
+2023-07-03 22:03:19.691 [error] Offline: Offline
+    at S.onerror (vscode-file://vscode-app/snap/code/132/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:72:1466)

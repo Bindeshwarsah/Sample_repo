@@ -1,0 +1,6 @@
+2023/07/04-09:33:30.437 d13 Reusing MANIFEST /home/bindeshwar/snap/discord/153/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/07/04-09:33:30.447 d13 Recovering log #7
+2023/07/04-09:33:30.448 d13 Reusing old log /home/bindeshwar/snap/discord/153/.config/discord/Local Storage/leveldb/000007.log 
+2023/07/04-09:35:31.277 cf2 Level-0 table #11: started
+2023/07/04-09:35:31.318 cf2 Level-0 table #11: 1716724 bytes OK
+2023/07/04-09:35:31.326 cf2 Delete type=0 #7

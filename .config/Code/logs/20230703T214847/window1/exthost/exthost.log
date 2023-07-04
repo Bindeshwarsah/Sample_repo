@@ -1,0 +1,12 @@
+2023-07-03 21:48:50.177 [info] Extension host with pid 5818 started
+2023-07-03 21:48:50.507 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-07-03 21:48:50.556 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-07-03 21:48:50.673 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-07-03 21:48:50.788 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-07-03 21:48:50.851 [info] Eager extensions activated
+2023-07-03 21:48:50.896 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-07-03 21:48:50.900 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-07-03 21:48:50.934 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-07-03 21:49:09.811 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-07-03 21:50:25.437 [info] Extension host terminating: renderer closed the MessagePort
+2023-07-03 21:50:25.444 [info] Extension host with pid 5818 exiting with code 0

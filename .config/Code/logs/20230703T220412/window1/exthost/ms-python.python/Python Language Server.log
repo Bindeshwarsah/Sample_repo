@@ -1,0 +1,70 @@
+2023-07-03 22:04:54.364 [info] [Info  - 22:04:54] (11283) Pylance language server 2023.6.40 (pyright 3f84540e) starting
+2023-07-03 22:04:54.364 [info] [Info  - 22:04:54] (11283) Server root directory: /home/bindeshwar/.vscode/extensions/ms-python.vscode-pylance-2023.6.40/dist
+2023-07-03 22:04:54.364 [info] [Info  - 22:04:54] (11283) Starting service instance "day1"
+2023-07-03 22:04:54.415 [info] [Info  - 22:04:54] (11283) Setting pythonPath for service "day1": "/bin/python3"
+2023-07-03 22:04:54.418 [info] [Warn  - 22:04:54] (11283) stubPath /home/bindeshwar/projects-test/day1/typings is not a valid directory.
+2023-07-03 22:04:54.438 [info] [Info  - 22:04:54] (11283) Assuming Python version 3.10
+2023-07-03 22:04:54.511 [info] [Info  - 22:04:54] (11283) Found 1 source file
+2023-07-03 22:04:54.948 [info] [Info  - 22:04:54] (11283) Background analysis(1) root directory: /home/bindeshwar/.vscode/extensions/ms-python.vscode-pylance-2023.6.40/dist
+2023-07-03 22:04:54.951 [info] [Info  - 22:04:54] (11283) Background analysis(1) started
+2023-07-03 22:04:55.039 [info] [Info  - 22:04:55] (11283) Indexer background runner(2) root directory: /home/bindeshwar/.vscode/extensions/ms-python.vscode-pylance-2023.6.40/dist (index)
+2023-07-03 22:04:55.039 [info] [Info  - 22:04:55] (11283) Indexing(2) started
+2023-07-03 22:04:55.670 [info] [Info  - 22:04:55] (11283) scanned(2) 90 files over 1 exec env
+2023-07-03 22:04:56.384 [info] [Info  - 22:04:56] (11283) indexed(2) 42 files over 1 exec env
+2023-07-03 22:04:56.388 [info] [Info  - 22:04:56] (11283) Indexing finished(2).
+2023-07-03 22:05:34.502 [info] [Info  - 22:05:34] (11345) Pylance language server 2023.6.40 (pyright 3f84540e) starting
+2023-07-03 22:05:34.502 [info] [Info  - 22:05:34] (11345) Server root directory: /home/bindeshwar/.vscode/extensions/ms-python.vscode-pylance-2023.6.40/dist
+2023-07-03 22:05:34.509 [info] [Info  - 22:05:34] (11345) Starting service instance "day1"
+2023-07-03 22:05:34.543 [info] [Info  - 22:05:34] (11345) Setting pythonPath for service "day1": "/bin/python3"
+2023-07-03 22:05:34.547 [info] [Warn  - 22:05:34] (11345) stubPath /home/bindeshwar/projects-test/day1/typings is not a valid directory.
+2023-07-03 22:05:34.572 [info] [Info  - 22:05:34] (11345) Assuming Python version 3.10
+2023-07-03 22:05:34.715 [info] [Info  - 22:05:34] (11345) Found 1 source file
+2023-07-03 22:05:35.374 [info] [Info  - 22:05:35] (11345) Background analysis(1) root directory: /home/bindeshwar/.vscode/extensions/ms-python.vscode-pylance-2023.6.40/dist
+2023-07-03 22:05:35.376 [info] [Info  - 22:05:35] (11345) Background analysis(1) started
+2023-07-03 22:05:35.657 [info] [Info  - 22:05:35] (11345) Indexer background runner(2) root directory: /home/bindeshwar/.vscode/extensions/ms-python.vscode-pylance-2023.6.40/dist (index)
+2023-07-03 22:05:35.658 [info] [Info  - 22:05:35] (11345) Indexing(2) started
+2023-07-03 22:05:36.495 [info] [Info  - 22:05:36] (11345) scanned(2) 90 files over 1 exec env
+2023-07-03 22:05:36.562 [info] [Info  - 22:05:36] (11345) indexed(2) 42 files over 1 exec env
+2023-07-03 22:05:36.567 [info] [Info  - 22:05:36] (11345) Indexing finished(2).
+2023-07-03 22:06:12.817 [info] [Info  - 22:06:12] (11422) Pylance language server 2023.6.40 (pyright 3f84540e) starting
+2023-07-03 22:06:12.817 [info] [Info  - 22:06:12] (11422) Server root directory: /home/bindeshwar/.vscode/extensions/ms-python.vscode-pylance-2023.6.40/dist
+2023-07-03 22:06:12.824 [info] [Info  - 22:06:12] (11422) Starting service instance "day1"
+2023-07-03 22:06:12.860 [info] [Info  - 22:06:12] (11422) Setting pythonPath for service "day1": "/bin/python3"
+2023-07-03 22:06:12.865 [info] [Warn  - 22:06:12] (11422) stubPath /home/bindeshwar/projects-test/day1/typings is not a valid directory.
+2023-07-03 22:06:12.897 [info] [Info  - 22:06:12] (11422) Assuming Python version 3.10
+2023-07-03 22:06:12.973 [info] [Info  - 22:06:12] (11422) Found 1 source file
+2023-07-03 22:06:13.364 [info] [Info  - 22:06:13] (11422) Background analysis(1) root directory: /home/bindeshwar/.vscode/extensions/ms-python.vscode-pylance-2023.6.40/dist
+2023-07-03 22:06:13.367 [info] [Info  - 22:06:13] (11422) Background analysis(1) started
+2023-07-03 22:06:13.707 [info] [Info  - 22:06:13] (11422) Indexer background runner(2) root directory: /home/bindeshwar/.vscode/extensions/ms-python.vscode-pylance-2023.6.40/dist (index)
+2023-07-03 22:06:13.707 [info] [Info  - 22:06:13] (11422) Indexing(2) started
+2023-07-03 22:06:14.183 [info] [Info  - 22:06:14] (11422) scanned(2) 90 files over 1 exec env
+2023-07-03 22:06:14.242 [info] [Info  - 22:06:14] (11422) indexed(2) 42 files over 1 exec env
+2023-07-03 22:06:14.246 [info] [Info  - 22:06:14] (11422) Indexing finished(2).
+2023-07-03 22:06:22.771 [info] [Info  - 22:06:22] (11470) Pylance language server 2023.6.40 (pyright 3f84540e) starting
+2023-07-03 22:06:22.771 [info] [Info  - 22:06:22] (11470) Server root directory: /home/bindeshwar/.vscode/extensions/ms-python.vscode-pylance-2023.6.40/dist
+2023-07-03 22:06:22.778 [info] [Info  - 22:06:22] (11470) Starting service instance "day1"
+2023-07-03 22:06:22.806 [info] [Info  - 22:06:22] (11470) Setting pythonPath for service "day1": "/bin/python3"
+2023-07-03 22:06:22.812 [info] [Warn  - 22:06:22] (11470) stubPath /home/bindeshwar/projects-test/day1/typings is not a valid directory.
+2023-07-03 22:06:22.841 [info] [Info  - 22:06:22] (11470) Assuming Python version 3.10
+2023-07-03 22:06:22.916 [info] [Info  - 22:06:22] (11470) Found 1 source file
+2023-07-03 22:06:23.368 [info] [Info  - 22:06:23] (11470) Background analysis(1) root directory: /home/bindeshwar/.vscode/extensions/ms-python.vscode-pylance-2023.6.40/dist
+2023-07-03 22:06:23.372 [info] [Info  - 22:06:23] (11470) Background analysis(1) started
+2023-07-03 22:06:23.558 [info] [Info  - 22:06:23] (11470) Indexer background runner(2) root directory: /home/bindeshwar/.vscode/extensions/ms-python.vscode-pylance-2023.6.40/dist (index)
+2023-07-03 22:06:23.558 [info] [Info  - 22:06:23] (11470) Indexing(2) started
+2023-07-03 22:06:24.112 [info] [Info  - 22:06:24] (11470) scanned(2) 90 files over 1 exec env
+2023-07-03 22:06:24.169 [info] [Info  - 22:06:24] (11470) indexed(2) 42 files over 1 exec env
+2023-07-03 22:06:24.174 [info] [Info  - 22:06:24] (11470) Indexing finished(2).
+2023-07-03 22:06:36.140 [info] [Info  - 22:06:36] (11516) Pylance language server 2023.6.40 (pyright 3f84540e) starting
+2023-07-03 22:06:36.140 [info] [Info  - 22:06:36] (11516) Server root directory: /home/bindeshwar/.vscode/extensions/ms-python.vscode-pylance-2023.6.40/dist
+2023-07-03 22:06:36.147 [info] [Info  - 22:06:36] (11516) Starting service instance "day1"
+2023-07-03 22:06:36.182 [info] [Info  - 22:06:36] (11516) Setting pythonPath for service "day1": "/bin/python3"
+2023-07-03 22:06:36.187 [info] [Warn  - 22:06:36] (11516) stubPath /home/bindeshwar/projects-test/day1/typings is not a valid directory.
+2023-07-03 22:06:36.211 [info] [Info  - 22:06:36] (11516) Assuming Python version 3.10
+2023-07-03 22:06:36.371 [info] [Info  - 22:06:36] (11516) Found 1 source file
+2023-07-03 22:06:36.773 [info] [Info  - 22:06:36] (11516) Background analysis(1) root directory: /home/bindeshwar/.vscode/extensions/ms-python.vscode-pylance-2023.6.40/dist
+2023-07-03 22:06:36.779 [info] [Info  - 22:06:36] (11516) Background analysis(1) started
+2023-07-03 22:06:37.097 [info] [Info  - 22:06:37] (11516) Indexer background runner(2) root directory: /home/bindeshwar/.vscode/extensions/ms-python.vscode-pylance-2023.6.40/dist (index)
+2023-07-03 22:06:37.097 [info] [Info  - 22:06:37] (11516) Indexing(2) started
+2023-07-03 22:06:37.643 [info] [Info  - 22:06:37] (11516) scanned(2) 90 files over 1 exec env
+2023-07-03 22:06:37.701 [info] [Info  - 22:06:37] (11516) indexed(2) 42 files over 1 exec env
+2023-07-03 22:06:37.705 [info] [Info  - 22:06:37] (11516) Indexing finished(2).

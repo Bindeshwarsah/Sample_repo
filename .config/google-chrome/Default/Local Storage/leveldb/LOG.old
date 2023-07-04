@@ -1,0 +1,6 @@
+2023/07/04-14:50:15.005 3 Reusing MANIFEST /home/bindeshwar/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/04-14:50:15.009 3 Recovering log #17
+2023/07/04-14:50:15.011 3 Reusing old log /home/bindeshwar/.config/google-chrome/Default/Local Storage/leveldb/000017.log 
+2023/07/04-14:53:39.482 5 Level-0 table #21: started
+2023/07/04-14:53:39.495 5 Level-0 table #21: 22790 bytes OK
+2023/07/04-14:53:39.506 5 Delete type=0 #17

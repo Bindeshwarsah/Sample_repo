@@ -1,0 +1,19 @@
+2023-07-03 22:04:13.689 [info] Extension host with pid 11103 started
+2023-07-03 22:04:13.689 [info] Skipping acquiring lock for /home/bindeshwar/.config/Code/User/workspaceStorage/d39cb10fd314476cf1940c3d7d58a9ac.
+2023-07-03 22:04:13.846 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-07-03 22:04:14.046 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-07-03 22:04:14.111 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-07-03 22:04:14.141 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-07-03 22:04:14.267 [info] Eager extensions activated
+2023-07-03 22:04:14.297 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-07-03 22:04:14.300 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-07-03 22:04:14.729 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-07-03 22:04:14.775 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-07-03 22:04:51.878 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-07-03 22:04:52.626 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-07-03 22:05:33.583 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2023-07-03 22:06:11.879 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-07-03 22:06:35.155 [info] ExtensionService#_doActivateExtension ms-python.flake8, startup: false, activationEvent: 'onLanguage:python'
+2023-07-03 22:09:07.359 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-07-03 22:09:45.748 [info] Extension host terminating: renderer closed the MessagePort
+2023-07-03 22:09:45.786 [info] Extension host with pid 11103 exiting with code 0

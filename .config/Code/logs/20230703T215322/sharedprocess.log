@@ -1,0 +1,8 @@
+2023-07-03 22:02:05.666 [error] [uncaught exception in sharedProcess]: A system error occurred (getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com): Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+2023-07-03 22:02:27.529 [error] [uncaught exception in sharedProcess]: A system error occurred (connect EHOSTUNREACH 20.50.73.11:443): Error: connect EHOSTUNREACH 20.50.73.11:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-07-03 22:03:02.837 [info] Getting Manifest... ms-python.python
+2023-07-03 22:03:02.843 [info] Installing extension: ms-python.python
+2023-07-03 22:03:04.041 [info] Getting Manifest... ms-python.vscode-pylance
+2023-07-03 22:03:04.180 [info] Installing extension: ms-python.vscode-pylance ms-python.python

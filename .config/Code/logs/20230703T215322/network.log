@@ -1,0 +1,15 @@
+2023-07-03 22:02:15.161 [error] browser #10: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2023-07-03 22:02:54.313 [error] browser #16: https://ms-python.gallerycdn.vsassets.io/extensions/ms-python/python/2023.10.1/1686700119126/Microsoft.VisualStudio.Code.Manifest - error GET Offline
+2023-07-03 22:02:54.317 [error] browser #17: https://ms-python.gallerycdn.vsassets.io/extensions/ms-python/python/2023.10.1/1686700119126/Microsoft.VisualStudio.Code.Manifest - error GET Offline
+2023-07-03 22:02:54.320 [error] browser #18: https://ms-python.gallery.vsassets.io/_apis/public/gallery/publisher/ms-python/extension/python/2023.10.1/assetbyname/Microsoft.VisualStudio.Code.Manifest - error GET Offline
+2023-07-03 22:02:54.332 [error] browser #19: https://ms-python.gallery.vsassets.io/_apis/public/gallery/publisher/ms-python/extension/python/2023.10.1/assetbyname/Microsoft.VisualStudio.Code.Manifest - error GET Offline
+2023-07-03 22:03:07.272 [error] browser #23: https://ritwickdey.gallerycdn.vsassets.io/extensions/ritwickdey/liveserver/5.7.9/1661914858952/Microsoft.VisualStudio.Code.Manifest - error GET Offline
+2023-07-03 22:03:07.275 [error] browser #24: https://ritwickdey.gallery.vsassets.io/_apis/public/gallery/publisher/ritwickdey/extension/LiveServer/5.7.9/assetbyname/Microsoft.VisualStudio.Code.Manifest - error GET Offline
+2023-07-03 22:03:09.553 [error] browser #25: https://ritwickdey.gallerycdn.vsassets.io/extensions/ritwickdey/liveserver/5.7.9/1661914858952/Microsoft.VisualStudio.Code.Manifest - error GET Offline
+2023-07-03 22:03:09.556 [error] browser #26: https://ritwickdey.gallery.vsassets.io/_apis/public/gallery/publisher/ritwickdey/extension/LiveServer/5.7.9/assetbyname/Microsoft.VisualStudio.Code.Manifest - error GET Offline
+2023-07-03 22:03:17.464 [error] browser #28: https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/9.19.0/1688136182631/Microsoft.VisualStudio.Code.Manifest - error GET Offline
+2023-07-03 22:03:17.468 [error] browser #27: https://ritwickdey.gallerycdn.vsassets.io/extensions/ritwickdey/liveserver/5.7.9/1661914858952/Microsoft.VisualStudio.Code.Manifest - error GET Offline
+2023-07-03 22:03:17.473 [error] browser #29: https://esbenp.gallery.vsassets.io/_apis/public/gallery/publisher/esbenp/extension/prettier-vscode/9.19.0/assetbyname/Microsoft.VisualStudio.Code.Manifest - error GET Offline
+2023-07-03 22:03:17.480 [error] browser #30: https://ritwickdey.gallery.vsassets.io/_apis/public/gallery/publisher/ritwickdey/extension/LiveServer/5.7.9/assetbyname/Microsoft.VisualStudio.Code.Manifest - error GET Offline
+2023-07-03 22:03:19.664 [error] browser #31: https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/9.19.0/1688136182631/Microsoft.VisualStudio.Code.Manifest - error GET Offline
+2023-07-03 22:03:19.668 [error] browser #32: https://esbenp.gallery.vsassets.io/_apis/public/gallery/publisher/esbenp/extension/prettier-vscode/9.19.0/assetbyname/Microsoft.VisualStudio.Code.Manifest - error GET Offline
