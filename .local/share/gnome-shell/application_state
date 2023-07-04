@@ -2,19 +2,19 @@
 <application-state>
   <context id="">
     <application id="snap-store_ubuntu-software.desktop" score="431" last-seen="1688415620"/>
-    <application id="org.gnome.Nautilus.desktop" score="29" last-seen="1688414461"/>
+    <application id="org.gnome.Nautilus.desktop" score="32" last-seen="1688490317"/>
     <application id="discord_discord.desktop" score="358" last-seen="1688489036"/>
     <application id="org.gnome.Shell.PortalHelper.desktop" score="22" last-seen="1688443368"/>
     <application id="google-chrome.desktop" score="1386" last-seen="1688464968"/>
     <application id="code_code.desktop" score="137" last-seen="1688402385"/>
     <application id="org.gnome.FileRoller.desktop" score="0" last-seen="1688402654"/>
-    <application id="org.gnome.gedit.desktop" score="0" last-seen="1688406825"/>
-    <application id="org.gnome.Terminal.desktop" score="1417" last-seen="1688489444"/>
+    <application id="org.gnome.gedit.desktop" score="2" last-seen="1688490171"/>
+    <application id="org.gnome.Terminal.desktop" score="1657" last-seen="1688491641"/>
     <application id="gnome-control-center.desktop" score="3" last-seen="1688443675"/>
     <application id="zoom-client_zoom-client.desktop" score="76" last-seen="1688464953"/>
     <application id="update-manager.desktop" score="3" last-seen="1688398238"/>
     <application id="yelp.desktop" score="0" last-seen="1688401222"/>
     <application id="gnome-initial-setup.desktop" score="153390985.5" last-seen="1688398258"/>
-    <application id="firefox_firefox.desktop" score="2559" last-seen="1688489559"/>
+    <application id="firefox_firefox.desktop" score="2606" last-seen="1688491667"/>
   </context>
 </application-state>

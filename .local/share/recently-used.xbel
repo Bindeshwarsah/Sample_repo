@@ -24,4 +24,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/bindeshwar/BP/names.txt" added="2023-07-04T17:02:31.554000Z" modified="2023-07-04T17:02:31.554003Z" visited="2023-07-04T17:02:31.554000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-07-04T17:02:31.554001Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
