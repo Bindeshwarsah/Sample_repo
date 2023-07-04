@@ -1,0 +1,5 @@
+{"timestamp":500622,"category":"nimbus_events","name":"unenrollment","extra":{"branch":"treatment-a","experiment":"next-generation-accessibility-engine-powering-screen-readers","enrollment_id":"8751bad5-69a9-4d03-a73e-ae359ee81d28","reason":"invalid-feature"}}
+{"timestamp":500964,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","feature":"accessibilityCache","experiment":"next-generation-accessibility-engine-powering-screen-readers"}}
+{"timestamp":500964,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"next-generation-accessibility-engine-powering-screen-readers-and-other-ats-copy","reason":"invalid-feature","feature":"accessibilityCache"}}
+{"timestamp":529699,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"next-generation-accessibility-engine-powering-screen-readers","feature":"accessibilityCache","reason":"invalid-feature"}}
+{"timestamp":529699,"category":"nimbus_events","name":"validation_failed","extra":{"feature":"accessibilityCache","experiment":"next-generation-accessibility-engine-powering-screen-readers-and-other-ats-copy","reason":"invalid-feature"}}

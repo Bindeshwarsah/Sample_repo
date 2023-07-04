@@ -210,3 +210,68 @@ apt update
 sudo snap install zoom-client
 zoom-client --version
 exit
+git status
+git init
+git status
+git remote -v
+git branch
+git original remote add https://github.com/Bindeshwarsah/Day-2.git
+git remote add original https://github.com/Bindeshwarsah/Day-2.git
+git remote -v
+git add .
+git commit -m "First commited"
+git log --online
+git log --oneline
+git push original master
+git push original main
+git push original master
+git remote -v
+git remote add original https://github.com/Bindeshwarsah/Task-2.git
+git remote set-url --delete --push original
+git remote -v
+git remote set-url --delete --push original
+git remote -v
+git remote set-url --delete <Day-2> <https://github.com/Bindeshwarsah/Task-2.git>
+>>
+git remote set-url --delete <Day-2> <https://github.com/Bindeshwarsah/Task-2.git>
+git remote -v
+git remote remove original
+git remote -v
+git remote add original https://github.com/Bindeshwarsah/Task-2.git
+git remote -v
+git add .
+git commit -m "First commited"
+git log --oneline
+git push original master
+git push original main
+git push original master
+git branch -M main
+git push -u origin main
+git push -u Task-2 main
+git push -u origin master
+git push original master
+git push original main
+git push -u origin main
+git push -u original main
+git remote -v
+git push -u original main
+git remote -v
+git branch -M main
+git push -u origin main
+git push -u original main
+access_token
+<access_token>
+git remote set-url origin https://<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>@github.com/Bindeshwarsah/Task-2.git
+git push -u original main
+git init
+git add .
+git branch -M main
+git commit -m "first commit"
+git branch -M main
+git branch
+git config user.name "bindeshwarsah"
+git config user.email "bindeshwark742@gmail.com"
+cat .git/config
+git push -u origin main
+git push -u original main
+exit
