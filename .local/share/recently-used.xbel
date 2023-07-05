@@ -34,4 +34,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/bindeshwar/hello.py" added="2023-07-05T05:17:13.082677Z" modified="2023-07-05T05:17:13.082682Z" visited="2023-07-05T05:17:13.082678Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-07-05T05:17:13.082680Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

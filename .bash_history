@@ -275,3 +275,112 @@ cat .git/config
 git push -u origin main
 git push -u original main
 exit
+git remote -v
+git push -u original main
+git remove remove original
+git remove remote original
+git remote remove original
+git remote -v
+git remote add original git@github.com:Bindeshwarsah/Day-2.git
+git remote -v
+git add .
+git commit -m "First commit"
+git log --oneline
+git push original master
+git push original main
+git remote -v
+git remote remove original
+git remote -v
+git remote add original git@github.com:Bindeshwarsah/Day-2.git
+git remote -v
+git add names.txt
+cd BP
+git add names.txt
+git commit -m "First commited"
+git push original main
+git push origin main
+git push names.txt main
+git push original master
+git push origin master
+cd ..
+git push original master
+git push origin master
+git add BP
+git commit -m "First commited"
+git commit -a
+git commit -m "First commited"
+git push original master
+git push original main
+mkdir File
+cd File
+touch
+mkdir File
+toch Ram
+mkdir File
+cd ..
+mkdir File
+cd File
+touch Ram
+cat Ram
+vi Ram
+cd ..
+git remote -v
+git remote add Day-2 git@github.com:Bindeshwarsah/Day-2.git
+git remote -v
+git add .
+git commit -m "First commited"
+git push Day-2 main
+git push -u Day-2 main
+git remote -v
+git remote remove original
+git remote -v
+git branch
+git push -u Day-2 main
+git pull Day-2 main
+git push -u Day-2 main
+git pull origin main
+git pull Day-2 
+git pull Day-2 main
+git config pull.rebase false 
+git pull Day-2 main
+git remote remove Day-2
+git remote -v
+remote -v
+git remote -v
+git init
+git add README.md
+git remote add origin git@github.com:Bindeshwarsah/Task-2.git
+git remote -v
+git add .
+git branch -M main
+git commit -m "first commit"
+git push -u origin main
+mkdir Folder
+cd Folder
+ls
+git clone git@github.com:Bindeshwarsah/Task-2.git~
+ls
+cd Task-2
+cd Folder
+ls -l
+ls -la
+git status
+cd task-2
+cd ..
+cd Task-2
+cd Folder
+ls
+ls -l
+cd origin
+git clone "git@github.com:Bindeshwarsah/Task-2.git"
+ls -la
+git status
+ls -la
+ls
+cd ..
+cd Folder
+git clone "git@github.com:Bindeshwarsah/Task-2.git"
+git clone "https://github.com/Bindeshwarsah/Task-2.git"
+ls
+exit
+print("Hello World")

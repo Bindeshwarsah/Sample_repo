@@ -1,3 +1,6 @@
-2023/07/04-22:09:43.882 bab Reusing MANIFEST /home/bindeshwar/snap/discord/153/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2023/07/04-22:09:43.897 bab Recovering log #10
-2023/07/04-22:09:43.899 bab Reusing old log /home/bindeshwar/snap/discord/153/.config/discord/Local Storage/leveldb/000010.log 
+2023/07/05-09:21:45.471 9dc Reusing MANIFEST /home/bindeshwar/snap/discord/153/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/07/05-09:21:45.483 9dc Recovering log #10
+2023/07/05-09:21:45.485 9dc Reusing old log /home/bindeshwar/snap/discord/153/.config/discord/Local Storage/leveldb/000010.log 
+2023/07/05-09:45:37.190 9dd Level-0 table #14: started
+2023/07/05-09:45:37.226 9dd Level-0 table #14: 1730341 bytes OK
+2023/07/05-09:45:37.233 9dd Delete type=0 #10
